@@ -2,7 +2,7 @@
 
 Sou estudante de Engenharia de Software (3° Período) e neste primeiro semestre de 2021, iremos iniciar os estudos em Desenvolvimento Back-End (a princípio utilizando Java e o framework Spring). Durante as férias, também estou me familiarizando com o PHP, para ter outra opção de trabalho a nível back-end.
 
-Atualmente busco um estágio na área de programação e/ou participar em algum projeto onde eu possa desenvolver minhas habilidades, criando conteúdo de qualidade e traga qualidade de vida para quem o utiliza. Sou extremamente detalhista e organizado, metódico e também tenho facilidade em aprender.
+Atualmente busco um estágio na área de programação e/ou participar em algum projeto onde eu possa desenvolver minhas habilidades, criando conteúdo que traga qualidade de vida para quem o utiliza. Sou extremamente detalhista e organizado, metódico e também tenho facilidade em aprender.
 
 Deixo ao fim desta seção meu e-mail e número de WhatsApp, caso deseje me contatar. ☺️
 
@@ -46,6 +46,15 @@ fabio.frass@gmail.com
 
 
 #### Agradeço pela visita!
+
+<a href="https://github.com/fabiofrasson/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiofrasson&theme=gotham&show_icons=true" />
+</a>
+<a href="https://github.com/fabiofrasson/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabiofrasson&theme=gotham&show_icons=true" />
+</a>
+
+
 
 
 
