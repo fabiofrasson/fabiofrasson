@@ -1,22 +1,17 @@
 ## Olá, me chamo Fabio Frasson <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Sou estudante de Engenharia de Software (3° Período) e neste primeiro semestre de 2021, iremos iniciar os estudos em Desenvolvimento Back-End (a princípio utilizando Java e o framework Spring). Durante as férias, também estou me familiarizando com o PHP, para ter outra opção de trabalho a nível back-end.
-
-Atualmente busco um estágio na área de programação e/ou participar em algum projeto onde eu possa desenvolver minhas habilidades, criando conteúdo que traga qualidade de vida para quem o utiliza. Sou extremamente detalhista e organizado, metódico e também tenho facilidade em aprender.
-
-Deixo ao fim desta seção meu e-mail e número de WhatsApp, caso deseje me contatar. ☺️
-
-Durante o 2° Período (Agosto a Dezembro de 2020) vimos o básico de HTML e CSS, e também a utilização de ReactJS (renderização de elementos, componentes e props, state, manipulação de eventos, renderização condicional, listas e chaves, formulários, hooks, React Router e bibliotecas de terceiros). Conhecimentos adicionais como Git, Github, prototipação (utilizando o Figma), UX/UI, JSON, árvore DOM também foram adquiridos.
-Na prática, desenvolvemos o conteúdo do repositório [Financ](https://github.com/fabiofrasson/financ) no início do período, utilizando HTML e CSS; mais tarde, quando avançamos para o ReactJS, foi desenvolvido o repositório [Desafio3](https://github.com/fabiofrasson/desafio3), que é a continuação do mesmo projeto, porém com avanços técnicos e mais recursos. Especificamente fiquei responsável pelas páginas <i>Index</i> e <i>Receitas</i>.
+Sou estudante de Engenharia de Software (4° Período) e neste segundo semestre de 2021 iremos aprofundar os estudos em Desenvolvimento Back-End (adotando o Test-Driven Development).
 
 ### 💻 Conhecimentos
 - HTML básico;
 - CSS básico;
 - JavasScript básico;
-- ReactJS básico.
+- ReactJS básico;
+- Spring Boot básico.
 
 ### 📖 Estudos em andamento
-- PHP;
+- Adobe XD;
+- ReactJS;
 - Java.
 
 ### ℹ️ Informações adicionais
@@ -35,15 +30,10 @@ Todas estas experiências me ajudaram a construir e desenvolver as <i>soft skill
 - 🇮🇹 Italiano - Noções básicas.
 
 ### 📫 Redes sociais
-- [LinkedIn](https://www.linkedin.com/in/fabiofrasson/);
-- [Facebook](https://www.facebook.com/fabio.frasson2).
+- [Linktree](https://linktr.ee/iamfabiofrasson)
 
 ### 📧 E-mail
 fabio.frass@gmail.com
-
-### 📱 WhatsApp
-+55 45 99943-9105
-
 
 #### Agradeço pela visita!
 
