@@ -1,28 +1,26 @@
-## Olá, me chamo Fabio Frasson <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Olá, tudo bem? me chamo Fabio Frasson <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">M
 
 Sou estudante de Engenharia de Software (4° Período) e neste segundo semestre de 2021 iremos aprofundar os estudos em Desenvolvimento Back-End (adotando o Test-Driven Development).
+Um dos meus hobbies é estudar. Acho fascinante poder aprender coisas novas, e mais ainda compartilhar esse conhecimento com outras pessoas através do ensino. Isso me motiva a questionar o estado atual das coisas e pensar em maneiras mais eficientes de realizar tarefas cotidianas.
+Também sou Turismólogo e trabalhei por 12 anos na área, em diferentes segmentos: agências de viagem, consolidadora, receptivo, hotel de luxo, cruzeiro marítimo. Lidar com pessoas é algo intrigante, que nos faz sair da zona de conforto e sempre nos desafia.
+Especificamente na área de Desenvolvimento, gosto muito de Java e tenho mais familiaridade com o Back-End, apesar de também ter desenvolvido alguns projetos de estudo em ReactJS.
 
 ### 💻 Conhecimentos
-- HTML básico;
-- CSS básico;
-- JavasScript básico;
-- ReactJS básico;
-- Spring Boot básico.
+- HTML;
+- CSS;
+- ReactJS;
+- Spring Boot;
+- Git;
+- Figma/Adobe XD;
+- Bootstrap/MaterialUI;
+- Sistema Linux (Ubuntu).
 
 ### 📖 Estudos em andamento
-- Adobe XD;
+- UX/UI (Adobe XD, tipografia, Heurísticas);
 - ReactJS;
-- Java.
-
-### ℹ️ Informações adicionais
-Me graduei em Turismo em 2012, tendo trabalhado na área de 2008 a 2020. Algumas das áreas onde pude atuar são: hotelaria de luxo, agenciamento de viagens, turismo voltado a eventos, cruzeiro marítimo e consolidadora.
-
-Atuei também, por um curto período de tempo, como professor de Francês (Aliança Francesa de Foz do Iguaçu) e Inglês.
-
-Todas estas experiências me ajudaram a construir e desenvolver as <i>soft skills</i> que são normalmente demandadas em qualquer área de atuação atualmente.
+- Testes em desenvolvimento Java/Spring Boot.
 
 ### 🌐 Idiomas
-- 🇧🇷 Português Brasileiro - Nativo;
 - 🇺🇸 Inglês - Nível avançado;
 - 🇫🇷 Francês - Nível avançado;
 - 🇦🇷 Espanhol - Nível intermediário;
@@ -35,7 +33,7 @@ Todas estas experiências me ajudaram a construir e desenvolver as <i>soft skill
 ### 📧 E-mail
 fabio.frass@gmail.com
 
-#### Agradeço pela visita!
+#### Obrigado pela visita!
 
 <a href="https://github.com/fabiofrasson/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiofrasson&theme=gotham&show_icons=true" />
