@@ -1,4 +1,4 @@
-## Olá, tudo bem? me chamo Fabio Frasson <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Olá, tudo bem? Me chamo Fabio Frasson <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Sou estudante de Engenharia de Software (4° Período) e neste segundo semestre de 2021 iremos aprofundar os estudos em Desenvolvimento Back-End (adotando o Test-Driven Development).
 Um dos meus hobbies é estudar. Acho fascinante poder aprender coisas novas, e mais ainda compartilhar esse conhecimento com outras pessoas através do ensino. Isso me motiva a questionar o estado atual das coisas e pensar em maneiras mais eficientes de realizar tarefas cotidianas.
