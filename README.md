@@ -16,9 +16,8 @@ Especificamente na área de Desenvolvimento, gosto muito de Java e tenho mais fa
 - Sistema Linux (Ubuntu).
 
 ### 📖 Estudos em andamento
-- UX/UI (Adobe XD, tipografia, Heurísticas);
-- ReactJS;
 - Testes em desenvolvimento Java/Spring Boot.
+- Desenvolvimento de jogos com Java e Unity
 
 ### 🌐 Idiomas
 - 🇺🇸 Inglês - Nível avançado;
